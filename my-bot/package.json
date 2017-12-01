@@ -1,0 +1,21 @@
+{
+  "name": "mychatbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "botpress": "1.x",
+    "botpress-broadcast": "^2.0.10",
+    "botpress-messenger": "^2.2.9",
+    "botpress-slack": "^1.0.23",
+    "botpress-web": "1.x",
+    "botpress-webhook": "^1.0.1",
+    "request": "^2.83.0"
+  },
+  "scripts": {
+    "start": "botpress start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gaurav",
+  "license": "Botpress Proprietary License"
+}
